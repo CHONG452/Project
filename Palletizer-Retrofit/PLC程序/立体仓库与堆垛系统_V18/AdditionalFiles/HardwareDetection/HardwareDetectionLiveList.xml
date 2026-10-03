@@ -1,0 +1,14 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="44D" DeviceID="14" TypeID="44D0014" DeviceType="GL20">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>gl20-pn2</NameOfStation>
+    <MacAddress>70-CA-4D-18-B1-35</MacAddress>
+    <IPAddress>192.168.0.6</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="44D" DeviceID="14" TypeID="44D0014" DeviceType="GL20">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>gl20-pn</NameOfStation>
+    <MacAddress>70-CA-4D-1B-0C-8D</MacAddress>
+    <IPAddress>192.168.0.5</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
